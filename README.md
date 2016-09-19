@@ -1,5 +1,5 @@
 # Codes-appli
-Codes disponible pour les différentes régions
+France / NAR / LAR / APAC / Europe & Afrique 
 
 Exemple:
 <!-- Menu de navigation du site -->
