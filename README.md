@@ -4,10 +4,10 @@ Codes disponible pour les différentes régions
 Exemple:
 <!-- Menu de navigation du site -->
 <ul class="navbar">
-  <li><a href="index.html">Home page</a>
-  <li><a href="reflexions.html">Réflexions</a>
-  <li><a href="ville.html">Ma ville</a>
-  <li><a href="liens.html">Liens</a>
+  <li><a href="index.html">Nicolas</a>
+  <li><a href="reflexions.html">Stéphane</a>
+  <li><a href="ville.html">Otillia</a>
+  <li><a href="liens.html">Léo</a>
 </ul>
 
 <!-- Contenu principal -->
